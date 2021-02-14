@@ -1,0 +1,3 @@
+Uncaught java.lang.NullPointerException exception in thread "main" in a method Main.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.NullPointerException
+	at Main.main(Main.java:54) [file:/home/user/Desktop/BCSESandipan/Assignment1/Main.class]

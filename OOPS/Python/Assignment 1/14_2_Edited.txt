@@ -1,0 +1,18 @@
+Grace Brewster Murray Hopper was an American -----
+computer scientist and United States Navy rear ---
+admiral. One of the first programmers of the -----
+Harvard Mark I computer, she was a pioneer of ----
+computer programming who invented one of the -----
+first linkers.  She popularized the idea of ------
+machine-independent programming languages, which -
+led to the development of COBOL, an early --------
+high-level programming language still in use -----
+today.  Prior to joining the Navy, Hopper earned -
+a Ph.D. in mathematics from Yale University and --
+was a professor of mathematics at Vassar ---------
+College.  Hopper attempted to enlist in the Navy -
+during World War II but was rejected because she -
+was 34 years old. She instead joined the Navy ----
+Reserves. Hopper began her computing career in ---
+1944 when she worked on the Harvard Mark I team --
+led by Howard H. Aiken. 

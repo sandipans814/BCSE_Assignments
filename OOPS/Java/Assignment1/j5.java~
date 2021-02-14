@@ -1,0 +1,33 @@
+import java.util.Scanner;
+class Equality{
+	public void equality(String s1,String s2)
+	{
+		if(s1==s2)
+			System.out.println("The references are equal");
+		else
+			System.out.println("The references are not equal");
+		if(s1.equals(s2))
+			System.out.println("The contents are equal");
+		else
+			System.out.println("The contents are not equal");
+	}
+};
+public class j5{
+    public static void main(String[] args) {
+        String s1, s2;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the first string: ");
+        s1 = scanner.nextLine();
+
+        s2 = s1;
+        System.out.println("Here is the second string: " + s2);
+        Equality  eq= new Equality();
+        eq.equality(s1,s2);
+        System.out.print("Enter the first string: ");
+        s1 = scanner.nextLine();
+        System.out.print("Enter the second string: ");
+        s2 = scanner.nextLine();
+        eq.equality(s1,s2);
+    }
+    
+}

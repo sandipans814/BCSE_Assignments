@@ -1,0 +1,7 @@
+Uncaught java.util.InputMismatchException exception in thread "main" in a method java.util.Scanner.nextInt() with signature (I)I
+Exception in thread "main" java.util.InputMismatchException: For input string: "+5469123645"
+	at java.util.Scanner.nextInt(Scanner.java:2166) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.3.0.fc20.x86_64/jre/lib/rt.jar!/java/util/Scanner.class]
+	at java.util.Scanner.nextInt(Scanner.java:2119) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.3.0.fc20.x86_64/jre/lib/rt.jar!/java/util/Scanner.class]
+	at Instructor.setData(J11.java:15) [file:/home/user/Desktop/BCSESandipan/Assignment1/Instructor.class]
+	at Course.setData(J11.java:55) [file:/home/user/Desktop/BCSESandipan/Assignment1/Course.class]
+	at J11.main(J11.java:69) [file:/home/user/Desktop/BCSESandipan/Assignment1/J11.class]

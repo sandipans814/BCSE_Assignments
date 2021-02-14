@@ -1,0 +1,6 @@
+name = input("Enter name : ")
+original = set(name)
+upper = set(name.upper())
+lower = set(name.lower())
+print("Unique uppercase chars = " + str(original - lower))
+print("Unique lowercase chars = " + str(original - upper))
